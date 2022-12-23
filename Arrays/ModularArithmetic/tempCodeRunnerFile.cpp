@@ -1,0 +1,1 @@
+ // cout<<"Repeating Number : "<<A<<"  "<<"Missing number : "<<B;
